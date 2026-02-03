@@ -80,7 +80,7 @@ Follow these steps exactly to run the project.
 ### Step 1: Clone Repository
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/pankhudi24bai10877-star/Chemical-Equipment-Parameter-Visualizer
 cd chemical-equipment-visualizer
 ```
 
